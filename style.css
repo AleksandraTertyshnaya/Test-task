@@ -1,37 +1,67 @@
 
-.menu{
-    width: 100%;
-    background-color: #282424		;
-}
-
-
-table{
-    width: 30%; 
-    margin: auto; 
+body{
+    background: no-repeat  url(https://pics.esputnik.com/repository/home/73981/images/msg/2802583/1642500849358.png);
     
-    padding-top: 20px;
-    padding-bottom: 20px;
-    text-align: center;
-    font-size: 20px;
-    font-family:  'Exo 2', sans-serif;
+    }
     
     
-}
-
-
-tr{
-    border-spacing:  5px;  
+    .menu{
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: #282424		;
+    }
     
-}
-
-a{
-    padding: 0;
-    text-decoration: none;  
-    color: #ffffff;
-  
     
-}
-
-a:hover {
-    color: #D2691E;
-}
+    table{
+        width: 30%; 
+        margin: auto; 
+        
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: center;
+        font-size: 20px;
+        font-family:  'Exo 2', sans-serif;
+        
+        
+    }
+    
+    
+    tr{
+        border-spacing:  5px;  
+        
+    }
+    
+    a{
+        padding: 0;
+        text-decoration: none;  
+        color: #ffffff;
+      
+        
+    }
+    
+    a:hover {
+        color: #FFD700			;
+    }
+    
+    .hello{
+        padding-top: 80px;
+    }
+    
+    h1{
+        font-size: 50px;
+        font-family:  'Exo 2', sans-serif;
+        font-weight: bold;
+    
+    }
+    
+    h2{
+        font-size: 45px;
+        font-family:  'Exo 2', sans-serif;
+        font-weight: bold;
+    
+    }
+    
+    
+    
