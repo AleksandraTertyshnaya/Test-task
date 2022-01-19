@@ -11,7 +11,7 @@ body{
 
     .name{
         width: 100%;
-        position: fixed;
+        position: absolute;
         top: 0;
         left: 0;
         background-color: #282424
@@ -21,3 +21,34 @@ body{
         text-align: center;
 color:#ffffff;
     }
+
+    center{
+        padding-top: 100px;
+    }
+
+    th{
+        font-family:  'Exo 2', sans-serif;
+        font-weight: bold;
+        font-size: 35px;
+      padding-right: 70px;  
+    }
+
+    td{
+        font-family:  'Exo 2', sans-serif;
+        font-weight: bold;
+        font-size: 28px;
+      padding-right: 70px; 
+      padding-top: 20px; 
+      padding-left: 20px;
+    }
+
+    .text{
+        font-family:  'Exo 2', sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+      padding-right: 70px; 
+      padding-top: 20px; 
+      padding-left: 20px;
+    }
+
+   
