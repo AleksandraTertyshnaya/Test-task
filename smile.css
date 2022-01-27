@@ -55,11 +55,22 @@ color:#ffffff;
       padding-top: 10px; 
       padding-left: 20px;
       padding-bottom: 10px;
-      
+      background-color: #ecbda2;
+    }
+
+    .text1{
+        font-family:  'Exo 2', sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+      padding-right: 70px; 
+      padding-top: 10px; 
+      padding-left: 20px;
+      padding-bottom: 10px;
+      background-color: #F0F8FF;
     }
 
     .backcolor{
-        background-color: #F0FFF0	;
+        background-color: #F0F8FF		;
         border-spacing:0;
     }
 
