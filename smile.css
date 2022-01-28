@@ -3,18 +3,44 @@ body{
     
     }
 
+    .menu{
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: #282424		;
+       
+    }
+
+    .navigation a{
+        width: 30%; 
+        text-align: center;
+
+        padding-top: 20px;
+        padding-bottom: 20px;
+      
+        font-size: 20px;
+        font-family:  'Exo 2', sans-serif;
+         
+    }
+
+    a{
+        padding: 0;
+        text-decoration: none;  
+        color: #ffffff;
+        
+        
+    }
+    
+    a:hover {
+        color: #FFD700			;
+    }
+  
+  
     h1{
         font-size: 30px;
         font-family:  'Exo 2', sans-serif;
         font-weight: bold;
-    }
-
-    .name{
-        width: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-        background-color: #282424
     }
 
     h1{
@@ -26,12 +52,30 @@ color:#ffffff;
         padding-top: 100px;
     }
 
+center{
+    padding-top: 0;
+    left: 0;
+}
+
+    .name{
+        width: 100%;
+        padding-top: 60px;
+        left: 0;
+    }
+
+    .description{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
     th{
+        text-align: center;
         font-family:  'Exo 2', sans-serif;
         font-weight: bold;
-        font-size: 35px;
+        font-size: 30px;
       padding-right: 70px;  
       padding-bottom: 20px;
+      
     }
 
     td{
@@ -75,7 +119,7 @@ color:#ffffff;
     }
 
     .emoji{
-        text-align: center;
+        text-align: left;
         font-size: 40px;
         padding-top:0;
        
