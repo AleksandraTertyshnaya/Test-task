@@ -1,6 +1,6 @@
 body{
     background: no-repeat  url(background.png);
-    
+    background-color: #e58446    ;
     }
     
     
@@ -42,3 +42,32 @@ body{
     a:hover {
         color: #FFD700			;
     }
+
+   .photoplace{
+       width: 100%;
+       text-align: left;
+       padding: 50px;
+       padding-left: 20px;
+       opacity: no;
+       
+   }
+
+   .infoaboutme{
+    
+       width: 50%;
+       height: 700px;
+       border-radius: 30px;
+       margin-top: 150px;
+       background-color: rgba(242, 245, 247, 0.719);
+       
+       display: block;
+   }
+
+   h1{
+    font-size: 40px;
+    font-family:  'Exo 2', sans-serif;
+    text-align: top;
+    padding-top: 20px;
+   }
+
+  
