@@ -60,7 +60,7 @@ body{
        margin-top: 150px;
        background-color: rgba(242, 245, 247, 0.719);
        
-       display: block;
+       display: inline-block;
    }
 
    .text{
@@ -68,14 +68,22 @@ body{
    }
 
    p{
+   
 height: 1px;
     font-size: 30px;
     font-family:  'Exo 2', sans-serif;
     text-align: top;
     padding-top: 20px;
     padding-bottom: 10px;
+    
    }
 
-  
+   .instagram{
+    position: absolute;
+    float: left;
+  text-align: left;
+   }
+
+ 
 
   
