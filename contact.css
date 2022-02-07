@@ -45,16 +45,16 @@ body{
 
    .photoplace{
        width: 100%;
-       text-align: left;
-       padding: 50px;
-       padding-left: 20px;
-       opacity: no;
+       text-align: center;
+       padding-top: 20px;
+       
+      
        
    }
 
    .infoaboutme{
     
-       width: 50%;
+       width: 30%;
        height: 700px;
        border-radius: 30px;
        margin-top: 150px;
@@ -63,11 +63,19 @@ body{
        display: block;
    }
 
-   h1{
-    font-size: 40px;
+   .text{
+       padding-top: 0px;
+   }
+
+   p{
+height: 1px;
+    font-size: 30px;
     font-family:  'Exo 2', sans-serif;
     text-align: top;
     padding-top: 20px;
+    padding-bottom: 10px;
    }
+
+  
 
   
