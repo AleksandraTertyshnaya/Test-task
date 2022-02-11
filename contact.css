@@ -67,23 +67,58 @@ body{
        padding-top: 0px;
    }
 
-   p{
-   
-height: 1px;
+   h1{
+   margin: 0;
     font-size: 30px;
     font-family:  'Exo 2', sans-serif;
     text-align: top;
     padding-top: 20px;
     padding-bottom: 10px;
+     position: relative;
+
+   }
+
+   li {
+    margin: 0;
+    font-size: 25px;
+    font-family:  'Exo 2', sans-serif;
+    
+    padding-top: 12px;
+    padding-bottom: 10px;
+     position: relative;
+    list-style: none; 
+    font-weight: bold;
     
    }
 
-   .instagram{
-    position: absolute;
-    float: left;
-  text-align: left;
+   .social{
+       width: 60%;
+   }
+  
+
+   .insta{
+    width: 80%;
+    background: url(instagram.png) no-repeat 0 2px ; 
+    padding-left: 24px; 
+    background-size: 50px;
    }
 
+   .telega{
+    width: 80%;
+    background: url(telegram.png) no-repeat 0 2px ; 
+    padding-left: 24px; 
+    background-size: 50px;
+   }
+
+   .twitter{
+    width: 80%;
+    background: url(twitter.png) no-repeat 0 2px ; 
+    padding-left: 24px; 
+    background-size: 50px;
+   }
+
+
  
+
 
   
