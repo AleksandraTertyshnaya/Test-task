@@ -67,8 +67,8 @@ body{
         width: 100%;
         height: auto;
         padding-top: 100px;
-       
-     
+       padding-bottom: 70px;
+        display:flex;
     }
 
     .sasuke{
@@ -102,13 +102,38 @@ body{
         font-family:  'Exo 2', sans-serif;
         font-weight: bold;
         text-align: center;
-        padding-left: 30px;
-        padding-right: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
         padding-bottom: 30PX;
     }
 
     .sbutton{
         background: linear-gradient(90deg, rgba(49,49,52,1) 0%, rgba(29,29,38,1) 40%, rgba(121,126,128,1) 100%);
+        border: none;
+        color: white;
+        font-size: 20px;
+        font-family:  'Exo 2', sans-serif;
+        padding: 15px 32px;
+        font-weight: bold;
+        border-radius: 5px;
+        margin-bottom: 20px;
+        position: relative;
+left: 25%;
+    }
+
+    .naruto{
+       
+        margin-left: 170px;
+        width: 25%;
+        height: 30%;
+        background-color: #efefef;
+        border-radius: 30px;
+        box-shadow: 10px 10px 10px #6a2c03	;
+
+    }
+
+    .nbutton{
+        background: linear-gradient(90deg, rgba(119,51,7,1) 6%, rgba(229,132,70,1) 65%, rgba(245,178,136,1) 100%);
         border: none;
         color: white;
         font-size: 20px;
