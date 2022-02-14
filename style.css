@@ -106,3 +106,17 @@ body{
         padding-right: 30px;
         padding-bottom: 30PX;
     }
+
+    .sbutton{
+        background: linear-gradient(90deg, rgba(49,49,52,1) 0%, rgba(29,29,38,1) 40%, rgba(121,126,128,1) 100%);
+        border: none;
+        color: white;
+        font-size: 20px;
+        font-family:  'Exo 2', sans-serif;
+        padding: 15px 32px;
+        font-weight: bold;
+        border-radius: 5px;
+        margin-bottom: 20px;
+        position: relative;
+left: 25%;
+    }
