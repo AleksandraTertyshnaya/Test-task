@@ -123,7 +123,7 @@ left: 25%;
 
     .naruto{
        
-        margin-left: 170px;
+        margin-left: 185px;
         width: 25%;
         height: 30%;
         background-color: #efefef;
@@ -134,6 +134,32 @@ left: 25%;
 
     .nbutton{
         background: linear-gradient(90deg, rgba(119,51,7,1) 6%, rgba(229,132,70,1) 65%, rgba(245,178,136,1) 100%);
+        border: none;
+        color: white;
+        font-size: 20px;
+        font-family:  'Exo 2', sans-serif;
+        padding: 15px 32px;
+        font-weight: bold;
+        border-radius: 5px;
+        margin-bottom: 20px;
+        position: relative;
+left: 25%;
+    }
+
+
+    .pain{
+       
+        margin-left: 180px;
+        width: 25%;
+        height: 30%;
+        background-color: #efefef;
+        border-radius: 30px;
+        box-shadow: 10px 10px 10px #6a2c03	;
+
+    }
+
+    .pbutton{
+        background: linear-gradient(90deg, rgba(48,26,65,1) 6%, rgba(83,59,101,1) 65%, rgba(166,149,179,1) 100%);
         border: none;
         color: white;
         font-size: 20px;
