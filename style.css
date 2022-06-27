@@ -175,8 +175,9 @@ left: 25%;
 
 .form{
     width: auto;
-    height: 50px;
-    background-color: #F5FFFA;
+    height: 450px;
+    background-color: #0b5394  ;
      font-family:  'Exo 2', sans-serif;
+     font-weight: bold;
       text-align: center;
 }
