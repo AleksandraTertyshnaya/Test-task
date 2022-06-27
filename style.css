@@ -67,7 +67,7 @@ body{
         width: 100%;
         height: auto;
         padding-top: 100px;
-       padding-bottom: 70px;
+       padding-bottom: 230px;
         display:flex;
     }
 
@@ -175,7 +175,7 @@ left: 25%;
 
 .form{
     width: auto;
-    height: 350px;
+    height: 200px;
     background-color: #e9a57c  ;
      font-family:  'Exo 2', sans-serif;
      font-weight: bold;
