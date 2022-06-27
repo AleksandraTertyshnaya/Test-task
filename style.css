@@ -175,7 +175,8 @@ left: 25%;
 
 .form{
     width: auto;
-    height: 200px;
+    height: 230px;
+    padding-top: 20px;
     background-color: #e9a57c  ;
      font-family:  'Exo 2', sans-serif;
      font-weight: bold;
