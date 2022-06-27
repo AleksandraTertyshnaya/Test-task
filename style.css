@@ -171,3 +171,12 @@ left: 25%;
         position: relative;
 left: 25%;
     }
+
+
+.form{
+    width: auto;
+    height: 50px;
+    background-color: #F5FFFA;
+     font-family:  'Exo 2', sans-serif;
+      text-align: center;
+}
