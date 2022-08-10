@@ -1,6 +1,7 @@
 
 body{
      min-width: 1000px;
+         min-height: 100%;
     height: auto;
     background: no-repeat  url(background.png);
     background-color: #e58446    ;
@@ -19,7 +20,7 @@ body{
     table{
         width: 30%; 
         margin: auto; 
-        
+            min-height: 100%;
         padding-top: 20px;
         padding-bottom: 20px;
         text-align: center;
@@ -66,6 +67,7 @@ body{
     
     .galery{
         width: 100%;
+            min-height: 100%;
         height: auto;
         padding-top: 100px;
        padding-bottom: 230px;
@@ -88,6 +90,7 @@ body{
         padding-bottom: 30px;
         display: block;
         text-align: center;
+        
     }
     
     p{
@@ -179,8 +182,10 @@ left: 25%;
         position: absolute;
         top: 100;
         left: 0;
+        
     height: 255px;
     padding-top: 5px;
+
     background-color: #282424  ;
      font-family:  'Exo 2', sans-serif;
      font-weight: bold;
